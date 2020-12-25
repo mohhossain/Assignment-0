@@ -1,4 +1,5 @@
 function subtractFive(num) {
+    return num - 5;
   // Insert code here;
 }
 
